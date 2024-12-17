@@ -1,0 +1,537 @@
+* {
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 0;
+}
+
+header {
+    height: 72px;
+    padding: 12px 32px;
+    display: inline-block;
+
+}
+
+#head {
+    width: 1856px;
+    text-align: center;
+}
+
+#logo {
+    display: inline-block;
+    text-align: left;
+    vertical-align: middle;
+    margin-right: 350px;
+}
+
+#links {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+}
+
+a {
+    vertical-align: middle;
+    text-decoration: none;
+    padding-right: 20px;
+}
+
+#contact {
+    display: inline-block;
+    margin-left: 600px;
+}
+
+ #contactUs {
+    display: inline-block;
+    text-align: center;
+    border-radius: 8px;
+    padding: 8px 16px;
+    border: 1px solid #6941C6;
+    background-color:  #6941C6;
+    color: #ffffff;
+    padding: 8px 16px;
+    text-align: right;
+}
+
+body {
+    height: 3600px;
+}
+
+main {
+    width: 1440px;
+    margin-top: 96px;
+    padding: 96px;
+    background-color: #F1E8FF;
+    box-sizing: border-box;
+}
+
+#container {
+    max-width: 1280px;
+    padding: 0px 32px;
+    
+}
+
+#headPricing {
+    max-width: 768px;
+}
+
+h1 {
+    color: #181D27;
+    text-align: center;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+#simple {
+    width: 650px;
+    color: #535862;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+#content {
+    display: inline-block;
+    margin-top: 33px;
+    margin-left: 10px;
+}
+
+#pricingCard {
+    border-radius: 16px;
+    border: 1px solid #E9EAEB;
+    background-color: #FFFFFF;
+}
+
+#header {
+    padding: 40px 32px 32px 32px;
+}
+
+#headerPrice {
+   text-align: center;
+}
+
+h6 {
+    display: inline-block;
+    padding: 4px 12px;
+    text-align: center;
+    border-radius:  9999px;
+    border: 1px solid #E9D7FE;
+    background-color: #F9F5FF;
+    color: #6941C6;
+    text-align: center;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+}
+
+#priceText {
+   text-align: center;
+}
+
+h5 {
+    color: #181D27;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 60px;
+    letter-spacing: -0.96px;
+}
+
+#pricePara {
+    color: #535862;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    padding-top: 8px;
+    padding-bottom: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 150% */
+}
+
+#actions {
+   display: inline-block;
+}
+
+#started {
+    display: block;
+    width: 309px;
+    padding: 12px 18px;
+    text-align: center;
+    border-radius:  8px;
+    border: 2px solid #ffffff1f;
+    background: #7F56D9;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+}
+
+#chatSales {
+    display: block;
+    margin-top: 12px;
+    padding: 12px 18px;
+    text-align: center;
+    width: 309px;
+    border-radius: 8px;
+    border: 1px solid #D5D7DA;
+    background-color: #FFF;
+    color: #414651;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+}
+
+#contentUp {
+    padding: 0px  32px 40px 32px;
+}
+
+#divider {
+    height: 1px;
+    background-color: #E9EAEB;
+}
+
+#checkItem {
+    margin-top: 33px;
+}
+
+#checkText {
+    display: block;
+    padding: 16px;
+}
+
+#iconkaPara {
+    display: inline-block;
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#iconka {
+    display: inline-block;
+    vertical-align: middle;
+    width: 24px;
+    height: 24px;
+}
+
+#questionsBox {
+    margin-top: 64px;
+    padding: 32px 0px;
+    border-radius: 24px;
+    background-color: #ffffff;
+}
+
+#headingSupport {
+    max-width: 768px;
+}
+
+h3 {
+    color: #181D27;
+    text-align: center;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 44px;
+}
+
+#questionsPara {
+    margin-top: 20px;
+    color: #535862;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+#contentQuestions {
+    max-width: 768px;
+    text-align: left;
+}
+
+#accordianItem {
+    width: 768px;
+    padding: 32px;
+    margin-top: 32px;
+    border-radius: 16px;
+    background-color: #E4E4E4;
+}
+
+#accordianItemtwoo{
+    width: 768px;
+    padding: 32px;
+    margin-top: 16px;
+    border-radius: 16px;
+    border: 2px solid #FF2323;
+    background-color: #FFE5E5;
+}
+
+#accordianItemtree{
+    width: 768px;
+    padding: 32px;
+    margin-top: 16px;
+    border-radius: 16px;
+    background-color: #E9D7FF;
+}
+
+#accordianItemfour {
+    width: 768px;
+    padding: 32px;
+    margin-top: 16px;
+    border-radius: 16px;
+    background: #F7F4FF;
+}
+
+#accordianItemfive {
+    width: 768px;
+    padding: 32px;
+    margin-top: 16px;
+    border-radius: 16px;
+    border: 4px solid #326DFF;
+    background-color: #DCE6FF;
+}
+
+#accordianItemsix {
+    width: 768px;
+    padding: 32px;
+    margin-top: 16px;
+    border-radius: 16px;
+    background-color: #FFD5E7;
+}
+
+#item {
+    min-width: 320px;
+}
+
+#questionsIcon {
+    display: inline-block;
+}
+
+#arrow{
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 24px;
+}
+
+h4 {
+    display: inline-block;
+    vertical-align: middle;
+    color: #181D27;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; 
+}
+
+#questionsParagraf {
+    display: inline-block;
+    color: #625353;
+    font-family: Inter;
+    margin-top: 8px;
+    margin-left: 50px;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 150% */
+}
+
+span{
+    display: block;
+}
+
+#reviews {
+    padding: 32px 0px;
+    margin-top: 64px;
+    border-radius: 24px;
+    background-color: #FFF;   
+}
+
+#reviewsContainer {
+    max-width: 1280px;
+    padding: 0px 32px;
+    text-align: center;
+}
+
+#reviewsHeading {
+    display: inline-block;
+    max-width: 768px;
+    text-align: center;
+}
+
+h2 {
+    color: #181D27;
+    text-align: center;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 44px;
+    letter-spacing: -0.8px;
+}
+
+#reviewsPara {
+    color: #535862;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    margin-top: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: var(--Line-height-text-xl, 30px); /* 125% */
+}
+
+#cardContainer{
+    display: inline-block;
+    max-width: 1280px;
+    margin-top: 64px;
+    padding: 0px 32px;
+}
+
+#cardOne {
+    display: inline-block;
+    vertical-align: top;
+    height: 256px;
+    min-width: 480px;
+    min-height: 256px;
+    padding: 32px;
+    margin-right: 10px;
+    border-radius: 12px;
+    border: 1px solid #E9EAEB;
+    background-color: #FFF;
+}
+
+#cardTwoo {
+    display: inline-block;
+    min-width: 480px;
+    min-height: 256px;
+    padding: 32px;
+    border-radius: 12px;
+    border: 1px solid #E9EAEB;
+    background-color: #FFF;
+}
+
+#cardTree {
+    display: inline-block;
+    min-width: 480px;
+    min-height: 256px;
+    margin-right: 15px;
+    margin-top: 15px;
+    padding: 32px;
+    border-radius: 12px;
+    border: 1px solid #E9EAEB;
+    background-color: #FFF;
+}
+
+#cardFour {
+    display: inline-block;
+    vertical-align: top;
+    min-width: 480px;
+    min-height: 256px;
+    height: 287px;
+    margin-top: 15px;
+    padding: 32px;
+    border-radius: 12px;
+    border: 1px solid #E9EAEB;
+    background-color: #FFF;
+}
+
+#cardPara {
+    width: 480px;
+    color: #181D27;
+    font-family: Inika;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+}
+
+#cardsPeople {
+    margin-top: 80px;
+}
+
+#cardsPeopletwo {
+    margin-top: 50px;
+}
+
+#people {
+    display: inline-block;
+    vertical-align: top;
+}
+
+#nameWork {
+    display: inline-block;
+    margin-left: 30px;
+}
+
+#name {
+    display: inline-block;
+    color: #181D27;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 28px;
+}
+
+#work {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#workLogo {
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 41px;
+    font-size: 25px;
+}
+
+#workLogotwo {
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 117px;
+    font-size: 25px;
+}
+
+#workLogotree {
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 123px;
+    font-size: 25px;
+}
+
+#workLogofour {
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 99px;
+    font-size: 25px;
+}
+
+#logoText {
+    display: inline-block;
+    text-transform: capitalize;
+    vertical-align: top;
+    font-size: 25px;
+}
